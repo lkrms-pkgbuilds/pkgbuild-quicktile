@@ -3,7 +3,7 @@
 
 pkgname=quicktile
 pkgver=0.4.0
-pkgrel=4
+pkgrel=5
 url="https://github.com/ssokolow/quicktile"
 pkgdesc="Adds window-tiling hotkeys to any X11 desktop"
 arch=('any')
